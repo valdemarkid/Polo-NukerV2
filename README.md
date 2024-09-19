@@ -3,6 +3,7 @@
 
 - # Discord
 - Yes, We have a official Polo Discord server, you can find us at: https://discord.gg/pologg
+  
 ![image](https://github.com/user-attachments/assets/63179a19-4d81-4b40-a2b9-3c15df3ba04c)
 
 # Bot Setup
